@@ -12,13 +12,13 @@ return [
 		'DEFAULT' => '',
 		'WIDTH' => '800',
 		'HEIGHT' => '100',
-		'TAB' => 'TEST 2 tab',
+		'TAB' => 'TEST 1 tab',
 	),
 	'PART_ONE_TEST3' => array(
 		'TITLE' => 'TEST 3 name',
 		'DEFAULT' => '',
 		'WIDTH' => '800',
 		'HEIGHT' => '100',
-		'TAB' => 'TEST 3 tab',
+		'TAB' => 'TEST 1 tab',
 	),
 ];
